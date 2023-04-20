@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282786228360",
+    "project_id": "schedulerchatbox",
+    "storage_bucket": "schedulerchatbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282786228360:android:7b68fd4bf13e1d53c4173d",
+        "android_client_info": {
+          "package_name": "com.example.scheduler_chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282786228360-fh3th8rlk45lan9f3enu18vrigmsffiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnXbYvAWx55Tla_8F_cNTbYwtw1Z-XuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282786228360-fh3th8rlk45lan9f3enu18vrigmsffiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
